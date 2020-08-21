@@ -10,7 +10,9 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello DAD");
+            Console.WriteLine("Hello DAD NEW");
+            Console.WriteLine("Hello DAD NEW");
+            Console.WriteLine("Hello DAD NEW");
         }
     }
 }
