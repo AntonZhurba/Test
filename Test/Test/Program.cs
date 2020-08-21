@@ -12,5 +12,10 @@ namespace Test
         {
             Console.WriteLine("Hello DAD");
         }
+
+        public void test()
+        {
+
+        }
     }
 }
